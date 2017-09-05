@@ -6,6 +6,6 @@ In this Project, 'll analyzing data on gun deaths in the US and extract some rea
 * Exporing gun-death by race
 * Exploring gun-death by sex
 * Computation of rate of death by per race
-#### and much more...
+#### and many more...
 
 ### Based on above computation, i'll lead to some conclusion.
